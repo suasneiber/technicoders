@@ -1,0 +1,19 @@
+.tablaProductos{
+    margin: 10px 50px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 20%;
+    height: 100px;
+    width: 90%;
+}
+.thead{
+    background-color: slategrey;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 10px;
+}
+.lista{
+    background-color: silver;
+    margin: 10px;
+    
+}
